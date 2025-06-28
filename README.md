@@ -1,7 +1,8 @@
 # 2048 Game
 
 **2048** is a puzzle game where the goal is to combine tiles to reach the number 2048. This project is implemented in **PyCharm** using the **Pygame** library for graphics and sound. The main goal of this project is to learn and experiment with **Pygame** while developing a simple game with graphical and interactive features.
-![Game Screenshot](images/2048_game_screenshot.png)
+![Game Screenshot](images/Annotation%202025-06-28%20125009.png)
+
 ---
 
 ## Features
