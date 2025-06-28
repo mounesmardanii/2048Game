@@ -4,7 +4,8 @@
 
 
 
-![Game Screenshot](https://github.com/yourusername/2048Game/blob/main/Annotation%202025-06-28%20125828.png)
+![Game Screenshot](https://raw.githubusercontent.com/mounesmardanii/2048Game/main/2048Game/Annotation%202025-06-28%20125828.png)
+
 
 
 
